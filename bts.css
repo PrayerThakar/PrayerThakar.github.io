@@ -1,0 +1,26 @@
+* {
+  front-size: 20px;
+}
+
+
+
+
+div {
+  margin-top: 50px;
+  margin-left: 40px;
+}
+
+
+#textcolor {
+  color: white;
+}
+
+.big {
+  height: 275px;
+  width: auto;
+}
+
+.bug {
+  height: 350px;
+  width: auto;
+}
