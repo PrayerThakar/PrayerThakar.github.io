@@ -4,7 +4,6 @@
 
 
 
-
 div {
   margin-top: 50px;
   margin-left: 40px;
@@ -22,5 +21,10 @@ div {
 
 .bug {
   height: 350px;
+  width: auto;
+}
+
+.bangtan {
+  height: 400px;
   width: auto;
 }
